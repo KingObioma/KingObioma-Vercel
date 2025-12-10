@@ -51,7 +51,6 @@ body {
 body.menu-show {
   overflow: hidden;
   overflow: hidden;
-  overflow: hidden;
   position: fixed;
   height: 100%;
   width: 100%;
